@@ -4,7 +4,7 @@
     <p align="center">
     <details>
     <summary>Table of Content</summary>
-    <ul>
+    <ul align="center">
         <li align="center">
             <a href="#select">Select</a>
         </li>
