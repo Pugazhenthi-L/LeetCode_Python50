@@ -5,10 +5,10 @@
     <details>
     <summary>Table of Content</summary>
     <ul align="center">
-        <li align="center">
+        <li>
             <a href="#select">Select</a>
         </li>
-        <li align="center">
+        <li>
             <a href="#basic-joins">Basic of Joins</a>
         </li>
     </ul>
