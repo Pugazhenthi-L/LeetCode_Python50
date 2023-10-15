@@ -3,8 +3,7 @@
     <h1 align="center">LeetCode_Python50</h1>
     <p align="center">
     <details>
-    <summary>Table of Content</summary>
-    </p>
+    <summary>Table of Content</summary></p>
             <a href="#select">Select</a>
     <br />
             <a href="#basic-joins">Basic of Joins</a>
