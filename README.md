@@ -1,7 +1,7 @@
 # LeetCode_Python50
 
-## Select
-```
+<summary>Select</summary> 
+
 Q-1) https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/?envType=study-plan-v2&envId=top-sql-50
 
     import pandas as pd
@@ -49,7 +49,7 @@ Q-5) https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=t
         result = tweets[tweets["content"].str.len() > 15]["tweet_id"]
         result_d = pd.DataFrame({"tweet_id" : result})
         return result_d
-```
+
 ## Basic Joins
 
 Q-6) https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=top-sql-50
