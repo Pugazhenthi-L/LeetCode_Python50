@@ -1,12 +1,15 @@
 <div align="center">
     <img src="Python_logo_icon.png" alt="Logo" width="80" height="80">
     <h1 align="center">LeetCode_Python50</h1>
-    <p align="center">
     <details>
-    <summary>Table of Content</summary></p>
+    <ol>
+        <li>
             <a href="#select">Select</a>
-    <br />
+        </li>
+        <li>
             <a href="#basic-joins">Basic of Joins</a>
+        </li>
+    </ol>
     </details>
 </div>
 
