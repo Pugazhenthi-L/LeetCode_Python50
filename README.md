@@ -1,7 +1,18 @@
 # LeetCode_Python50
 <details>
-<summary>**Select**</summary>
+<summary>Table of Content</summary>
+<ol>
+    <li>
+        <a href="#select">Select</a>
+    </li>
+    <li>
+        <a href="basic_joins"> Basic of Joins </a>
+    </li>
+</ol>
 
+</details>
+
+## Select
 Q-1) https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/?envType=study-plan-v2&envId=top-sql-50
 
     import pandas as pd
@@ -50,7 +61,6 @@ Q-5) https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=t
         result_d = pd.DataFrame({"tweet_id" : result})
         return result_d
 
-</details>
 
 ## Basic Joins
 
