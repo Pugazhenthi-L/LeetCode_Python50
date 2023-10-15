@@ -6,7 +6,7 @@
         <a href="#select">Select</a>
     </li>
     <li>
-        <a href="#basic-joins"> Basic of Joins </a>
+        <a href="#basic-joins">Basic of Joins</a>
     </li>
 </ol>
 
