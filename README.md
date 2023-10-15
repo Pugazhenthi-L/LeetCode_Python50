@@ -1,7 +1,9 @@
 <div align="center">
     <img src="Python_logo_icon.png" alt="Logo" width="80" height="80">
     <h1 align="center">LeetCode_Python50</h1>
-    <details>
+</div>
+   <details>
+    <summary>Table of Content</summary>
     <ol>
         <li>
             <a href="#select">Select</a>
@@ -9,9 +11,8 @@
         <li>
             <a href="#basic-joins">Basic of Joins</a>
         </li>
-    </ol>
-    </details>
-</div>
+     </ol>
+   </details>
 
 ## Select
 Q-1) https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/?envType=study-plan-v2&envId=top-sql-50
