@@ -1,3 +1,5 @@
+<img src="python_logo_icon.png" alt="Logo" width="80" height="80">
+
 <h1 align="center">LeetCode_Python50</h1>
 <p align="center">
 <details>
