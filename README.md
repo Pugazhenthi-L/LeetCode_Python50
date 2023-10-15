@@ -1,5 +1,4 @@
 <h3 align="center">LeetCode_Python50</h3>
-<br />
 <p align="center">
 <details>
 <summary>Table of Content</summary>
