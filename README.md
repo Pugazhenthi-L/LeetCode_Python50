@@ -6,6 +6,7 @@
     <summary>Table of Content</summary>
     <ul align="center">
             <a href="#select">Select</a>
+    <br />
             <a href="#basic-joins">Basic of Joins</a>
     </ul>
     </details>
