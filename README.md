@@ -1,5 +1,5 @@
 # LeetCode_Python50
-
+<details>
 <summary>Select</summary> 
 
 Q-1) https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/?envType=study-plan-v2&envId=top-sql-50
@@ -49,6 +49,8 @@ Q-5) https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=t
         result = tweets[tweets["content"].str.len() > 15]["tweet_id"]
         result_d = pd.DataFrame({"tweet_id" : result})
         return result_d
+
+</details>
 
 ## Basic Joins
 
