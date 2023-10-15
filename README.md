@@ -4,13 +4,11 @@
     <p align="center">
     <details>
     <summary>Table of Content</summary>
-    <ol>
+    </p>
             <a href="#select">Select</a>
     <br />
             <a href="#basic-joins">Basic of Joins</a>
-    </ol>
     </details>
-    </p>
 </div>
 
 ## Select
