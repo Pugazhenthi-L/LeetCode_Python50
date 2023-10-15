@@ -1,4 +1,6 @@
-# LeetCode_Python50
+<h3 align="center">LeetCode_Python50</h3>
+<br />
+<p align="center">
 <details>
 <summary>Table of Content</summary>
 <ol>
@@ -9,8 +11,8 @@
         <a href="#basic-joins">Basic of Joins</a>
     </li>
 </ol>
-
 </details>
+</p>
 
 ## Select
 Q-1) https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/?envType=study-plan-v2&envId=top-sql-50
