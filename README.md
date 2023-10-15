@@ -1,6 +1,6 @@
 # LeetCode_Python50
 <details>
-<summary>Select</summary> 
+Select
 
 Q-1) https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/?envType=study-plan-v2&envId=top-sql-50
 
