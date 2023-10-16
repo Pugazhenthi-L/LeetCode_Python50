@@ -68,4 +68,30 @@ Q-5) https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=t
 ## Basic Joins
 
 Q-6) https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=top-sql-50
+
+    import pandas as pd
+
+    def replace_employee_id(employees: pd.DataFrame, employee_uni: pd.DataFrame) -> pd.DataFrame:
+        df = pd.merge(employees, employee_uni, on = 'id', how = 'left')
+        result = df[['unique_id','name']]
+        return result
+
+Q-7) https://leetcode.com/problems/product-sales-analysis-i/?envType=study-plan-v2&envId=top-sql-50
+
+    import pandas as pd
+
+    def sales_analysis(sales: pd.DataFrame, product: pd.DataFrame) -> pd.DataFrame:
+        df = pd.merge(sales, product, on='product_id', how ='left')
+        result = df[['product_name', 'year', 'price']]
+        return result
+
+Q-8) https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/?envType=study-plan-v2&envId=top-sql-50
+
+    import pandas as pd
+    
+    def find_customers(visits: pd.DataFrame, transactions: pd.DataFrame) -> pd.DataFrame:
+        df = pd.merge(visits, transactions, on='visit_id', how='left')
+        df1 = df[df['amount'].isnull()]
+        result = df1.groupby('customer_id').size().reset_index(name='count_no_trans')
+        return result
     
